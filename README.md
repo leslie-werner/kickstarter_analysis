@@ -21,7 +21,7 @@ When looking at the line chart, we can see that goal outcome and percent of succ
 A few challenges encountered in analyzing this data was trying to use the COUNTIFS() function to be able to set ranges of the goals. After doing more research, I was able to understand that the same criteria range had to be used in order to add multiple ranges. For example, I had to include column D twice to be able to accomplish two data set ranges.
 Another difficulty that someone could encounter is not setting the correct filters for the data. This could cause having different data being analyzed.
 
-## Results
+## Results 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 When we look at Theater Outcomes Based on Launch Date, we can see that overall successful campaigns are relatively higher than failed or canceled campaigns. We can conclude that during the month of May to August, you will have more success at meeting goals thus making it an ideal time to fund for campaigns during this time. We can also conclude that in the month of December you will have a harder time to meet goals and are almost equally as likely to fail versus succeed.   
